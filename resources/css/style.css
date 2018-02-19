@@ -1,0 +1,18 @@
+/* CSS to modify the appearence of Excusion project - Jon T Fisher, 2/19/2018 */
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
